@@ -2,7 +2,7 @@
 <body>
 <h2>Asif mama!!!!!!! </h2>
  <h2> This is our website -- welcome !!!!!!  </h2>
-  <h2> 1.Created instance in ec2 </h2> 
+  <h2> 1.Created instance in AWS ec2 </h2> 
   <h2> 2. Installed tomcat </h2>
   <h2> 3. Installed Jenkins </h2>
   <h2> 4. Installed Maven </h2>
